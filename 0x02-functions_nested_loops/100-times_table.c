@@ -1,10 +1,7 @@
 #include "main.h"
-
 /**
  * print_times_table - Prints the n times table, starting with 0
  * @n: The number to be treated
- *
- * Return: Number matrix
  */
 void print_times_table(int n)
 {
